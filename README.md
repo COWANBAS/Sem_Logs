@@ -10,3 +10,5 @@ UserScript que redefine todas as funções do console do navegador para funçõe
 Isso efetivamente remove todos os logs do console do navegador, pois qualquer tentativa de usar essas funções de log não produzirá saída alguma.
 
 ![image](https://github.com/user-attachments/assets/58d29f95-be52-417f-8c5b-ee745f3725cb)
+
+Isso efetivamente remove todos os logs do console do navegador, pois qualquer tentativa de usar essas funções de log não produzirá saída alguma.
