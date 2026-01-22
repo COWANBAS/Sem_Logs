@@ -2,7 +2,7 @@
 // @name             Sem Logs
 // @description      Remove os logs do navegador
 // @namespace        CowanLOGS
-// @license          CowBas
+// @license          GPL-3.0
 // @version          1.0
 // @author           Cowanbas
 // @match            *://*/*
@@ -28,4 +28,5 @@
       console[method] = noop;
     }
   }
+
 })();
